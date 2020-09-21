@@ -1,0 +1,22 @@
+{
+  "name": "cricket_store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishant199775/Mern_Stack_Cricket_Store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishant199775/Mern_Stack_Cricket_Store/issues"
+  },
+  "homepage": "https://github.com/nishant199775/Mern_Stack_Cricket_Store#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
